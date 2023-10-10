@@ -1,0 +1,4 @@
+- name: Task2
+  ansible.builtin.cloudformation:
+    stack_name: AWS
+    state: present
