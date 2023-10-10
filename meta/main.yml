@@ -18,6 +18,4 @@ galaxy_info:
     - name: Debian
       versions:
         - all
-dependencies:
-  - role: geerlingguy.adminer
-    version: 1.3.1
+dependencies: []
